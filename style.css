@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to bottom, #ff7e5f, #feb47b);
+    color: white;
+    margin: 0;
+}
+header {
+    background: #d32f2f;
+    padding: 10px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+.banner {
+    margin: 20px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.2);
+}
+.games ul {
+    list-style: none;
+    padding: 0;
+}
+footer {
+    margin-top: 20px;
+    background: #d32f2f;
+    padding: 10px;
+}
